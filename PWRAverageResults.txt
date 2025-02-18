@@ -1,0 +1,17 @@
+Sleep Mode Averages (with Power calculated if missing):
+              Power (mW)  Current (mA)  Voltage (V)
+Mode                                              
+DEEP_SLEEP     0.313971      0.471429     0.666000
+LIGHT_SLEEP    0.284162      0.430435     0.660174
+POWER          0.293191      0.447368     0.655368
+
+PID Averages:
+ Power (mW)      2664.466667
+Current (mA)     344.347222
+Voltage (V)        6.563578
+dtype: float64
+Fuzzy Averages:
+ Power (mW)      2793.547619
+Current (mA)     350.908929
+Voltage (V)        6.021369
+dtype: float64
