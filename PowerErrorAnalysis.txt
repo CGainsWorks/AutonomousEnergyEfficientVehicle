@@ -1,0 +1,62 @@
+PID Error Analysis:
+ {'Means': Power (mW)      2664.466667
+Current (mA)     344.347222
+Voltage (V)        6.563578
+dtype: float64, 'Standard Deviations': Power (mW)      1368.184657
+Current (mA)     187.261517
+Voltage (V)        2.945866
+dtype: float64, 'Calculated Power Mean': 2260.149775617284, 'Calculated Power Error': 1593.646557465149}
+
+Fuzzy Error Analysis:
+ {'Means': Power (mW)      2793.547619
+Current (mA)     350.908929
+Voltage (V)        6.021369
+dtype: float64, 'Standard Deviations': Power (mW)      1823.704312
+Current (mA)     261.812050
+Voltage (V)        3.217501
+dtype: float64, 'Calculated Power Mean': 2112.9521610331635, 'Calculated Power Error': 1939.0722643439915}
+
+
+Sleep Modes Error Analysis:
+
+Mode: DEEP_SLEEP
+Means:
+Power (mW)      0.000000
+Current (mA)    0.471429
+Voltage (V)     0.666000
+dtype: float64
+Standard Deviations:
+Power (mW)      0.000000
+Current (mA)    0.106904
+Voltage (V)     0.009640
+dtype: float64
+Calculated Power Mean: 0.314 mW
+Calculated Power Error: ±0.071 mW
+
+Mode: LIGHT_SLEEP
+Means:
+Power (mW)      0.000000
+Current (mA)    0.430435
+Voltage (V)     0.660174
+dtype: float64
+Standard Deviations:
+Power (mW)      0.000000
+Current (mA)    0.139593
+Voltage (V)     0.009533
+dtype: float64
+Calculated Power Mean: 0.284 mW
+Calculated Power Error: ±0.092 mW
+
+Mode: POWER
+Means:
+Power (mW)      0.000000
+Current (mA)    0.447368
+Voltage (V)     0.655368
+dtype: float64
+Standard Deviations:
+Power (mW)      0.000000
+Current (mA)    0.150201
+Voltage (V)     0.026558
+dtype: float64
+Calculated Power Mean: 0.293 mW
+Calculated Power Error: ±0.099 mW
